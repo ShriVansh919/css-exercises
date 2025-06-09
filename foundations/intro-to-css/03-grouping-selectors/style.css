@@ -1,0 +1,11 @@
+.fristbotton{
+    background-color: black;
+    color: white;
+}
+.secbotton{
+    background-color: yellow;
+}
+button{
+    font-size: 26px;
+    font-family: 'Times New Roman',Helvetica, sans-serif;
+}
